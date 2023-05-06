@@ -12,7 +12,7 @@ alt="website screenshot" width="640" /></a>
 * Basic HTTP
 
 ## Thought process
-* [Stage 0](/stage0/README.md) Try to find common patterns.
+* [Stage 0 Try to find common patterns.](/stage0/README.md) 
 
 ## Clone the repo
 ```sh
