@@ -11,6 +11,9 @@ alt="website screenshot" width="640" /></a>
 * Git
 * Basic HTTP
 
+## Thought process
+* [Stage 0](/stage0/README.md) Try to find common patterns.
+
 ## Clone the repo
 ```sh
 git clone https://github.com/powei-lin/WebCrawlingTutorial.git
