@@ -1,12 +1,12 @@
 # Stage 0
 First, we want to find some patterns on the website.
 
-<!-- The target website is http://www.p3spectrum.ca/project/info/?id=1
+The first thing I noticed was that there's a `id` in the URL.
 
-<a href="http://www.p3spectrum.ca/project/info/?id=1" target="_blank"><img src=imgs/website_screenshot.png
-alt="website screenshot" width="640" /></a>
+<img src=s0_0.png
+alt="id in url" width="640" /></a>
 
-## Required knowledge
+<!-- ## Required knowledge
 * Python
 * Git
 * Basic HTTP
