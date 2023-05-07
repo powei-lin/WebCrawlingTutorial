@@ -24,7 +24,7 @@ We need some extra package to start sending HTTP request in `python`.
 pip install requests
 ```
 
-Take a look at `stage1/main.py`, and try to execute it. It tries to send an HTTP GET request to `http://www.p3spectrum.ca/project/info/?id=1`. And the result is being written to `test.html`.
+Take a look at [`stage1/main.py`](./main.py), and try to execute it. It tries to send an HTTP GET request to `http://www.p3spectrum.ca/project/info/?id=1`. And the result is being written to `test.html`.
 
 ## From the HTTP GET result
 After open `test.html`, you'll see there are lots of placeholders. And there's no number in it.
