@@ -6,5 +6,5 @@ Apparently there's some Javascript being executed after http request. So the web
 ## Render Javascript in python
 After some googling, I found that there's a package called `requests-html` which can render javascript. So let's install it.
 ```
-
+pip install requests-html
 ```
