@@ -13,6 +13,7 @@ alt="website screenshot" width="640" /></a>
 
 ## Thought process
 * [Stage 0 Try to find common patterns.](/stage0/README.md) 
+* [Stage 1 Start coding.](/stage1/README.md) 
 
 ## Clone the repo
 ```sh
