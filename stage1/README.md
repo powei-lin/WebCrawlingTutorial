@@ -28,4 +28,5 @@ Take a look at [`stage1/main.py`](./main.py), and try to execute it. It tries to
 
 ## From the HTTP GET result
 After open `test.html`, you'll see there are lots of placeholders. And there's no number in it.
-<img src=../imgs/s1_0.png alt="id in url" width="640" /></a>
+<kbd><img src=../imgs/s1_0.png alt="id in url" width="640" /></kbd>
+
