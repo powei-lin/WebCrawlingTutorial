@@ -14,4 +14,4 @@ We can use right click on the icon and click inspect to see where is this icon c
 
 It shows that it's a `span` with `class="marker marker-prime ng-binding"`.
 
-<kbd><img src=../imgs/s3_2.png width="360" /></kbd>
+<kbd><img src=../imgs/s3_2.png width="640" /></kbd>
