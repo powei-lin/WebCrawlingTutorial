@@ -15,6 +15,7 @@ alt="website screenshot" width="640" /></a>
 * [Stage 0 Try to find common patterns.](/stage0/README.md) 
 * [Stage 1 Start coding and send HTTP request.](/stage1/README.md) 
 * [Stage 2 Try Javascript rendering.](/stage2/README.md) 
+* [Stage 3 I](/stage3/README.md) 
 * [Stage 3 Can we do better?](/stage3/README.md) 
 * [Stage 4 Get more data with login](/stage4/README.md) 
 

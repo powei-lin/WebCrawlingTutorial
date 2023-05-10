@@ -8,3 +8,9 @@ After some googling, I found that there's a package called `requests-html` which
 ```
 pip install requests-html
 ```
+
+## See what we get after rendering javascript
+Take a look at [`stage2/main.py`](./main.py). It's basically the same as stage1 except we use another module and render javascript after the HTTP request.
+
+And this time we get a lot of information. Seems like we're almost done.
+<kbd><img src=../imgs/s2_0.png width="640" /></kbd>
