@@ -1,5 +1,5 @@
-# import module
 from requests_html import HTMLSession
+from bs4 import BeautifulSoup
 
 # first, we want to test on one url
 url = 'http://www.p3spectrum.ca/project/info/?id=1'
@@ -8,7 +8,5 @@ url = 'http://www.p3spectrum.ca/project/info/?id=1'
 session = HTMLSession()
 r = session.get(url)
 r.html.render()
-
-# write to a file to see what's inside
-with open('test.html', 'w') as ofile:
-    ofile.write(r.html.html)
+soup = BeautifulSoup(r.html.html, "lxml")
+print(soup.find('span', {'class': "marker marker-prime ng-binding"}))
