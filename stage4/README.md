@@ -29,10 +29,14 @@ It contains lots of information. Since there is project cost showing on the page
 
 <kbd><img src=../imgs/s4_3.png width="640" /></kbd>
 
+And we also have a clear way to check whether it's active or not.
+
+<kbd><img src=../imgs/s4_4.png width="480" /></kbd>
+
 ## Try to save the response to json file
 We've already hit the jackpot. Let's try to save the response to json file and see what else do we get.
 
 By clicking the header tab, you can see what url did we send. Let's copy that url and use python to send that.
-<kbd><img src=../imgs/s4_4.png width="640" /></kbd>
+<kbd><img src=../imgs/s4_5.png width="640" /></kbd>
 
 Take a look at [`stage4/main.py`](./main.py).
