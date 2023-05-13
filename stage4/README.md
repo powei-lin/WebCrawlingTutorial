@@ -14,9 +14,10 @@ Press the `>>` bottom.
 <kbd><img src=../imgs/s4_0.png width="640" /></kbd>
 
 Open the `Network` tab.
-<kbd><img src=../imgs/s4_1.png width="640" /></kbd>
+<kbd><img src=../imgs/s4_1.png width="480" /></kbd>
 
-<kbd><video src=../imgs/refresh.mov width="640" /></kbd>
+Refresh the page, you'll see what's all the http requests during loading the page.
+<kbd><img src=../imgs/refresh.avif width="640" /></kbd>
 
 <!-- So on the upper right side of the snapshot part. There are two icons, one is `category` another is probably showing `active` or not.
 
