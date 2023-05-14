@@ -19,11 +19,14 @@ alt="website screenshot" width="640" /></a>
 * [Stage 4 Can we do better?](/stage4/README.md) 
 * [Stage 5 Loop to get all active projects](/stage5/README.md) 
 
-## Additional part
+### Additional part
 This part needs login credentials.
 * [Additional 0 Get missing data with login](/additional0/README.md) 
 
-## Clone the repo
+## How to use
 ```sh
-git clone https://github.com/powei-lin/WebCrawlingTutorial.git
+# Clone the repo and change directory
+git clone https://github.com/powei-lin/WebCrawlingTutorial.git && cd WebCrawlingTutorial
+# You should be able to run every stage's python script
+python3 stage5/main.py
 ```
